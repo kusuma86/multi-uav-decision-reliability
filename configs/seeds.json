@@ -1,0 +1,12 @@
+{
+  "base_seed": 20261025,
+  "initial_world_seed": "SEED + offset + 10000 * scenario_index + replication_index; preserve scenario insertion order",
+  "initial_bootstrap_seeds": {
+    "factorial": 20262125,
+    "decision_audit": 20262225,
+    "matched_oracle": 20262338
+  },
+  "resource_world_seed": "SEED + 1400000 + 10000 * scenario_index + replication_index",
+  "resource_bootstrap_seed": 20261039,
+  "note": "Renaming shift_overconfidence to moderate_pessimistic_shift preserves dictionary insertion order and hence seeds. Do not sort scenarios."
+}

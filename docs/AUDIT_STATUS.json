@@ -1,0 +1,13 @@
+{
+  "audit_date": "2026-10-29",
+  "comparison": "Original CSV data compared with rerun CSVs after replacing only old scenario label shift_overconfidence with moderate_pessimistic_shift.",
+  "experiment_01_03": "12/12 CSV files exactly equal (pandas DataFrame.equals), including numeric data, after scenario-label normalization.",
+  "experiment_04": "Previously completed resource-constrained CLI rerun, 360 records. Not included in the 12-file comparison with original archive in this audit.",
+  "limitations": [
+    "No manuscript table-by-table audit performed",
+    "No independent fresh-environment dependency install",
+    "No license chosen",
+    "Figure scripts and images not cross-checked against manuscript",
+    "No public release or DOI created"
+  ]
+}
