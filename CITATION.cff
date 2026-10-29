@@ -1,0 +1,60 @@
+
+cff-version: 1.2.0
+
+message: >-
+  If you use this simulation code or the generated data
+  in your research, please cite this software repository.
+  The associated research article should also be cited
+  once published.
+
+title: >-
+  Decision Reliability in Multi-UAV Task Allocation
+  under Imperfect Capability Estimation:
+  Simulation Code and Data
+
+type: software
+
+authors:
+  - family-names: Wardana
+    given-names: I Nyoman Kusuma
+    affiliation: Department of Electrical Engineering, Politeknik Negeri Bali
+    email: kusumawardana@pnb.ac.id
+
+  - family-names: Sentana
+    given-names: I Wayan Budi
+    affiliation: Department of Information Technology, Politeknik Negeri Bali
+
+  - family-names: Dharma
+    given-names: I Gede Teguh Satya
+    affiliation: Department of Information Technology, Politeknik Negeri Bali
+
+  - family-names: Aryanto
+    given-names: I Komang Agus Ady
+    affiliation: Information Technology, Institut Teknologi dan Bisnis STIKOM Bali
+
+version: 1.0.0
+date-released: 2026-10-29
+
+license: MIT
+
+repository-code: https://github.com/kusuma86/multi-uav-decision-reliability
+
+abstract: >-
+  This repository provides simulation code and generated
+  data supporting a study of decision reliability in
+  multi-UAV task allocation under imperfect capability
+  estimation. It includes factorial policy experiments,
+  decision-level reliability analysis, matched
+  perfect-information comparisons, and resource-constrained
+  simulations with battery and spatial travel costs.
+  All experimental data are synthetically generated.
+
+keywords:
+  - multi-UAV task allocation
+  - decision reliability
+  - capability estimation uncertainty
+  - uncertainty-aware allocation
+  - factorial ablation
+  - resource-constrained simulation
+  - perfect-information comparison
+  - reproducibility

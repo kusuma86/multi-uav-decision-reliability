@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0-rc",
+  "files": {
+    ".gitignore": "2c30246db46826050633b099129783d41cc4a333a311d7e312c8be66fbacd7b6",
+    "CITATION.cff": "8554708bd33c3d85873771b82e15856fd07c4684cbc1b41a9420cb63a3a27f3b",
+    "LICENSE": "5ddb1ed3e848441bca3b6aba5783f0295b0d9d091d9d4ecb5e83fb9a8ca907ec",
+    "README.md": "d03811404ff0123964a7183b15a2be9182b0606655e72b46aadd155def403ce8",
+    "configs/seeds.json": "c587a3c902f787ca1fd7a755173674ee3f9f865a66571f7f8e0179930461c903",
+    "docs/AUDIT_STATUS.json": "7009aace4eff9f38f0c95a7e7931dd670f9e4fb592779bf42fca824ed280477c",
+    "docs/manuscript_numeric_audit.csv": "de223cdc6dceecf53bcafb17c75b9e0dccdd17cee04311a88529899638f337c4",
+    "experiments/01_initial_factorial.py": "1a2373c212604ff99c810a285fde7e3ce59e163789abd42071e0b5a853dfb864",
+    "experiments/02_decision_reliability_audit.py": "2d58ed76b994eca0de022ad0d21ff624ad42265b8f04d5c029f9b4e07a8c2d0a",
+    "experiments/03_initial_matched_oracle.py": "097b407618515d08085202a699cbabc780474c6526654211065f8f7a3762ad21",
+    "experiments/04_resource_constrained.py": "e09f00af68991faf9ac3cdaea46e262dbfba64b8c5c464f33bce64bf9efe744d",
+    "notebooks/01_initial_factorial.ipynb": "8a6014cbfdd98411fdd103ab4ce06aff494890370452025877527a0422cca7c1",
+    "notebooks/02_decision_reliability_audit.ipynb": "872b3682be8fa23409a590ad908cb0040216f037f70fc99f514085f1f8e3803e",
+    "notebooks/03_initial_matched_oracle.ipynb": "c5d18388f04f05076c35dd42ddc677224f775b67e0a0c35cc5e5f8b0819d6ef0",
+    "notebooks/04_resource_constrained.ipynb": "18bc0defa22f03bc9352262f0ad45d65e130755cf6a9c48ef66baf47a1ccae7a",
+    "requirements-tested.txt": "4e925137fa5e310c5d5084a0c809935057bfc1043fe830a9ebfdff21eb8512e8",
+    "requirements.txt": "4e925137fa5e310c5d5084a0c809935057bfc1043fe830a9ebfdff21eb8512e8",
+    "results/01_initial_factorial.zip": "eacbdac7b8d2ffab257b26fd9324a4084e0373062f0daddd5035c89536417aae",
+    "results/02_decision_reliability_audit.zip": "b447206c26a64e6e939a8a622e6e721da41de4239462a8ce7af3954ab11da904",
+    "results/03_initial_matched_oracle.zip": "0d7c8dfc0aaf44bb17ed27af33367304caf5e8e1a6642cbc73888a22b7460bf9",
+    "results/04_resource_constrained.zip": "e2aed7ed3f8a0615dd4fd439a7344cbfe759bb31de1757987b90ff94d0559a5f",
+    "scripts/check_results.py": "d08755c6d3757d82469137d7fba12bc67057210846ad20132804bcc90e5811d1"
+  },
+  "validation_scope": "Syntax checked; prior execution and numeric audit documented; clean environment not tested."
+}
